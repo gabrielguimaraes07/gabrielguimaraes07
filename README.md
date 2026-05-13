@@ -1,16 +1,24 @@
-## Hi there 👋
+# Gabriel Guimarães
 
-<!--
-**gabrielguimaraes07/gabrielguimaraes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando Ciências da Computação no UniCEUB  
+💻 Aprendendo a criar soluções através da programação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+
+  <img src="https://www.dbdesigner.net/assets/images/favicon/favicon-32x32.png" width="50"/>
+</p>
+
+---
+
+## 🌎 Redes Sociais
+
+<a href="[https://www.linkedin.com/in/gabriel-guimarães-61aaa2165](https://www.linkedin.com/in/gabriel-guimarães-61aaa2165/?isSelfProfile=true)">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
