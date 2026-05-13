@@ -19,6 +19,6 @@
 
 ## 🌎 Redes Sociais
 
-<a href="[https://www.linkedin.com/in/gabriel-guimarães-61aaa2165](https://www.linkedin.com/in/gabriel-guimarães-61aaa2165/?isSelfProfile=true)">
+<a href="https://www.linkedin.com/in/gabriel-guimarães-61aaa2165/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
